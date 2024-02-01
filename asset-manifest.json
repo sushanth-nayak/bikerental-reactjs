@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bikerental-reactjs/static/css/main.b9715ff1.css",
+    "main.js": "/bikerental-reactjs/static/js/main.b53ec413.js",
+    "static/media/slider-2.jpg": "/bikerental-reactjs/static/media/slider-2.8358b9e274d74cc99951.jpg",
+    "static/media/ride.jpg": "/bikerental-reactjs/static/media/ride.cba68ffb409d04cb1c0a.jpg",
+    "static/media/blog-2.jpg": "/bikerental-reactjs/static/media/blog-2.2210e230a95075009cf6.jpg",
+    "static/media/slider-3.jpg": "/bikerental-reactjs/static/media/slider-3.9d4ca703a93c6e263134.jpg",
+    "static/media/blog-1.jpg": "/bikerental-reactjs/static/media/blog-1.09998dd0bf9cbe165a72.jpg",
+    "static/media/slider-1.jpg": "/bikerental-reactjs/static/media/slider-1.68ccbf143995ee494e36.jpg",
+    "static/media/ava-4.jpg": "/bikerental-reactjs/static/media/ava-4.4332a849df263b18a0a6.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/bikerental-reactjs/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/blog-3.jpg": "/bikerental-reactjs/static/media/blog-3.4ea8a306baa7b4c9cb64.jpg",
+    "static/media/ava-3.jpg": "/bikerental-reactjs/static/media/ava-3.2b7538ff2af491982cd4.jpg",
+    "static/media/ava-1.jpg": "/bikerental-reactjs/static/media/ava-1.4d620896ec86798dba67.jpg",
+    "static/media/ava-2.jpg": "/bikerental-reactjs/static/media/ava-2.3f82774cb0e06240aea8.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/bikerental-reactjs/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/bikerental-reactjs/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/r15.png": "/bikerental-reactjs/static/media/r15.a758522bb7f06c20ad31.png",
+    "static/media/pulsur150.png": "/bikerental-reactjs/static/media/pulsur150.2abd53dacb38f5f29292.png",
+    "static/media/r15motogp.png": "/bikerental-reactjs/static/media/r15motogp.0ce2cc614bada385c600.png",
+    "static/media/apache160.png": "/bikerental-reactjs/static/media/apache160.9ee71b4c00b1a6e231eb.png",
+    "static/media/mt15.png": "/bikerental-reactjs/static/media/mt15.843c6b8e12bedc754b9f.png",
+    "static/media/classic350.png": "/bikerental-reactjs/static/media/classic350.08b371259e6981c31848.png",
+    "static/media/duke390.png": "/bikerental-reactjs/static/media/duke390.f08f90eaca3c3682c999.png",
+    "static/media/zx-10r.png": "/bikerental-reactjs/static/media/zx-10r.83dbefd30609632824e5.png",
+    "static/media/activa.png": "/bikerental-reactjs/static/media/activa.4c23e098bd784ea17d48.png",
+    "static/media/remixicon.woff?t=1590207869815": "/bikerental-reactjs/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/bikerental-reactjs/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/olas1.png": "/bikerental-reactjs/static/media/olas1.2e0389c01c416abeaa91.png",
+    "static/media/slick.svg": "/bikerental-reactjs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bikerental-reactjs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bikerental-reactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bikerental-reactjs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bikerental-reactjs/index.html",
+    "main.b9715ff1.css.map": "/bikerental-reactjs/static/css/main.b9715ff1.css.map",
+    "main.b53ec413.js.map": "/bikerental-reactjs/static/js/main.b53ec413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9715ff1.css",
+    "static/js/main.b53ec413.js"
+  ]
+}
