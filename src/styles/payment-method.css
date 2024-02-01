@@ -1,0 +1,17 @@
+.payment label {
+  font-weight: 600;
+  color: #1C2541;
+}
+
+.payment button {
+  padding: 8px 15px;
+  border-radius: 5px;
+  background-image: linear-gradient(rgba(67, 206, 248, 0.9), rgba(229, 237, 238, 0.92));
+  color: #1C2541;
+  border: none;
+  outline: none;
+}
+
+.payment button:hover{
+  color:#3A506B
+}

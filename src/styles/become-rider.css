@@ -1,0 +1,52 @@
+.become__rider {
+  background-image: linear-gradient(rgba(67, 206, 248, 0.9), rgba(1, 40, 44, 0.92)),
+    url("../assets/all-images/ride.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0px;
+}
+
+.become__rider button {
+  background: #fff;
+  color: #1C2541;
+  font-weight: 600;
+}
+
+.become__rider-title {
+  font-size: 2.8rem;
+  color: #fff;
+  line-height: 65px;
+  padding-top: 90px;
+}
+
+@media only screen and (max-width: 992px) {
+  .become__rider-title {
+    font-size: 1.5rem;
+    line-height: 3rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .become__rider {
+    padding: 50px 0px;
+  }
+
+  .become__rider-title {
+    font-size: 1.3rem;
+    line-height: 2.5rem;
+  }
+
+  .become__rider-btn {
+    font-size: 0.8rem !important;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .become__rider-img {
+    display: none;
+  }
+  .become__rider {
+    text-align: center;
+  }
+}

@@ -1,0 +1,99 @@
+.bike__item {
+  border: 1px solid #7c8a9736;
+  padding: 20px;
+  border-radius: 5px;
+  transition: all .2s ease-in-out;
+}
+
+.bike__item:hover{
+  box-shadow: 5px 5px 15px #63fffca9;
+  transform: scale(1.03);
+}
+
+.bike__item-info span i {
+  color: #5BC0BE;
+  font-size: 1.1rem;
+}
+
+.bike__item-btn {
+  border-radius: 0;
+  border: none;
+  outline: none;
+  background: linear-gradient(rgba(67, 206, 248, 0.9), rgba(5, 133, 147, 0.92));
+  padding: 8px 0px;
+}
+
+.bike__item-btn a {
+  text-decoration: none;
+  color: #1C2541;
+  font-weight: 500;
+}
+
+.bike__item-btn a:hover {
+  color: #fff;
+}
+.bike__btn-details {
+  background: linear-gradient(to right, rgba(67, 206, 248, 0.9), rgba(157, 171, 173, 0.92));
+  border-radius: 0px 4px 4px 0px;
+}
+
+.bike__btn-rent {
+  border-radius: 4px 0px 0px 4px;
+}
+
+.bike__item-content h4 {
+  font-size: 1.8rem;
+}
+
+.bike__item-content h6 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 992px) {
+  .bike__item h4 {
+    font-size: 1.1rem;
+    margin-bottom: 0;
+  }
+
+  .bike__item h6 {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+
+  .bike__item-info {
+    flex-wrap: wrap;
+  }
+
+  .bike__item-info span {
+    font-size: 0.8rem;
+    justify-content: space-between;
+  }
+
+  .bike__item-btn {
+    padding: 5px 10px;
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .bike__item h4 {
+    font-size: 1rem;
+  }
+
+  .bike__item h6 {
+    font-size: 0.9rem;
+  }
+
+  .bike__item-info span {
+    font-size: 0.7rem;
+  }
+
+  .bike__item-info span i {
+    font-size: 0.9rem;
+  }
+
+  .bike__item-btn {
+    font-size: 0.8rem;
+  }
+}
