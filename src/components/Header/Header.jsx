@@ -43,7 +43,7 @@ const Header = () => {
               <div className="header__top__left">
                 <span>Need Help?</span>
                 <span className="header__top__help">
-                  <i class="ri-phone-fill"></i> +91-123-456-789
+                  <i class="ri-phone-fill"></i> +(91) 1234567890
                 </span>
               </div>
             </Col>

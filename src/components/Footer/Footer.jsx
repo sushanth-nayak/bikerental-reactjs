@@ -72,7 +72,7 @@ const Footer = () => {
               <p className="office__info">Mangalore,karnataka, india</p>
               <p className="office__info">Phone: +91-1234567890</p>
 
-              <p className="office__info">Email:sushanthnayak.in@gmail.com</p>
+              <p className="office__info">Email:bikerental@gmail.com</p>
 
               <p className="office__info">Office Time: 9am - 9pm</p>
             </div>
@@ -95,7 +95,7 @@ const Footer = () => {
             <div className="footer__bottom">
               <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
                 <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-                <a href="" className="footer_name">Sushanth Nayak.</a>All rights reserved.
+                <p className="footer_name">Sushanth Nayak.</p>All rights reserved.
               </p>
             </div>
           </Col>

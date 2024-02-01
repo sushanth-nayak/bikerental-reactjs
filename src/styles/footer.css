@@ -73,6 +73,7 @@
 .footer_name {
   text-decoration: none;
   color: rgb(0, 26, 255);
+  margin: auto 0;
 }
 
 @media only screen and (max-width: 768px) {
@@ -93,6 +94,7 @@
 
   .footer__bottom p {
     font-size: 0.7rem;
+   
   }
 
   
